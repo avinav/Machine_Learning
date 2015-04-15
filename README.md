@@ -9,3 +9,6 @@ Explaining Linear and Quadratic Discriminant analysis
 
 ##[Movies and stuff](http://nbviewer.ipython.org/github/avinav/Machine_Learning/blob/master/notebook/movies_imdb.ipynb)
 Exploring IMDB's data and some interesting conclusions.(Harvard Extension School CS109)
+
+##[Multiline RANSAC](http://nbviewer.ipython.org/github/avinav/Machine_Learning/blob/master/notebook/ransac.ipynb)
+A simple explaination and a demo on RANSAC, in context with robot navigation and line-fitting on 2-D data points. Also gives a demo on an imporvement over it - Multiple-lines-fitting algorithm.
