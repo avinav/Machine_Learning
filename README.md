@@ -1,6 +1,6 @@
 # Machine_Learning
 Python notebook repository. Kind of a blog with interesting stuff that I am planning to build up.<br>
-##[March Madness with likelihood](nbviewer.ipython.org/github/avinav/Machine_Learning/blob/master/notebook/MarchMadnessSimulator_withlikelihood.ipynb)
+##[March Madness with likelihood](http://nbviewer.ipython.org/github/avinav/Machine_Learning/blob/master/notebook/MarchMadnessSimulator_withlikelihood.ipynb)
  
 Generating bracket for the tournament(predicting results) based on seeds and tournament experience<br>
 
