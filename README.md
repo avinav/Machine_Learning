@@ -12,3 +12,6 @@ Exploring IMDB's data and some interesting conclusions.(Harvard Extension School
 
 ##[Multiline RANSAC](http://nbviewer.ipython.org/github/avinav/Machine_Learning/blob/master/notebook/ransac.ipynb)
 A simple explaination and a demo on RANSAC, in context with robot navigation and line-fitting on 2-D data points. Also gives a demo on an imporvement over it - Multiple-lines-fitting algorithm.
+
+##[Facebook Graph](http://nbviewer.ipython.org/github/avinav/Machine_Learning/blob/master/notebook/facebook_friends_graph.ipynb) 
+How to extract data from html pages, create amd plot a graph of your facebook friends network. (using pandas and selenium)
