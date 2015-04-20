@@ -5,6 +5,8 @@ Python notebook repository. Kind of a blog with interesting stuff that I am plan
 Exploring IMDB's data and some interesting conclusions.(Harvard Extension School CS109)
 
 ##[Facebook Graph](http://nbviewer.ipython.org/github/avinav/Machine_Learning/blob/master/notebook/facebook_friends_graph.ipynb)
+[Page url](http://bit.ly/friendsgraph)
+
 How to extract data from html pages, create amd plot a graph of your facebook friends network. (using pandas and selenium)
 
 ##[Wikipedia Read Suggestions](http://nbviewer.ipython.org/github/avinav/Machine_Learning/blob/master/notebook/wikipedia_crawl.ipynb)
