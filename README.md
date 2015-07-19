@@ -7,7 +7,7 @@ Exploring IMDB's data and some interesting conclusions.(Harvard Extension School
 ##[Facebook Graph](http://nbviewer.ipython.org/github/avinav/Machine_Learning/blob/master/notebook/facebook_friends_graph.ipynb)
 [Page url](http://avinav.science/Machine_Learning/html/friends.html)
 
-How to extract data from html pages, create amd plot a graph of your facebook friends network. (using pandas and selenium)
+How to extract data from html pages, create and present a graph of your facebook friends network. (using selenium, pandas and vis.js)
 
 ##[Wikipedia Read Suggestions](http://nbviewer.ipython.org/github/avinav/Machine_Learning/blob/master/notebook/wikipedia_crawl.ipynb)
 To recommend to user a sequential reading topics based on his/her search request.
